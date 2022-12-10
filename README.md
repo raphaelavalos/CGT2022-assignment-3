@@ -3,6 +3,7 @@
 Here you will find the code for the assignment 3. You have to complete the empty functions/methods based on the signatures and docstring.
 
 > :warning: **WARNING:** YOU SHOULD NOT CHANGE THE FUNCTIONS NAMES AND THE FUNCTIONS SHOULD RESPECT THEIR SIGNATURE.
+
 > :warning: **WARNING:** You should use the version 0.24.0 of gym, see the files `requirements.txt`. You can install the dependencies with `pip install -r requirements.txt`
 
 You are free to add functions and methods, however you should properly comment them.
